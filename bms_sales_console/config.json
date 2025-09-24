@@ -1,0 +1,6 @@
+{
+  "pipedriveBase": "https://api.pipedrive.com/v1",
+  "pipedriveToken": "ebca78136498f5ff5e6bdd35a72677d1ef9f7580",
+  "defaultFallbackTZ": "America/New_York",
+  "startDateFieldLabel": "Class Start Date"
+}
